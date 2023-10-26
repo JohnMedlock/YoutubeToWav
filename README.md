@@ -11,11 +11,9 @@ Ensure you have Python and pip installed. If not, you can download Python [here]
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your_github_username/youtube-to-wav-converter.git
-cd youtube-to-wav-converter
+git clone https://github.com/JohnMedlock/YoutubeToWav.git
+cd YoutubeToWav
 ```
-
-Replace `your_github_username` with your actual GitHub username if you host this on GitHub.
 
 2. Install the required packages:
 
@@ -28,7 +26,7 @@ pip install pytube moviepy
 1. Run the script:
 
 ```bash
-python youtube_to_wav.py
+python YouTubeToWav.py
 ```
 
 2. Follow the prompts to enter the YouTube URL and the path where you'd like to save the WAV file.
