@@ -41,7 +41,3 @@ python YouTubeToWav.py
 ## License
 
 This project is open-source and available under the MIT License. 
-
----
-
-Remember to create a repository on GitHub and update the clone URL accordingly if you wish to host the code there. Adjust the instructions as needed based on your directory structure and filenames.
